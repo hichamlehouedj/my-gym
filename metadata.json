@@ -1,0 +1,7 @@
+{
+  "name": "GymFlow Pro - Gym Management System",
+  "description": "A high-end, modern gym management platform for tracking athletes, subscriptions, and attendance with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
